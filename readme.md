@@ -1,6 +1,6 @@
 ## What
 
-Just few Java 8 exercises.
+Just few Java 8 projects.
 
 ## Why
 
